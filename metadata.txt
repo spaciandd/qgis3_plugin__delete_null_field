@@ -12,8 +12,8 @@ email=spaciandd@gmail.com
 
 about=This plugin will delete all fields/columns from a vector layer or data which has all values equal to NULL.
 
-tracker=http://bugs
-repository=http://repo
+# tracker=http://bugs
+repository=https://github.com/spaciandd/qgis3_plugin__delete_null_field
 # End of mandatory metadata
 
 # Recommended items:
@@ -23,9 +23,9 @@ hasProcessingProvider=no
 # changelog=
 
 # Tags are comma separated with spaces allowed
-tags=python
+tags=delete,attribute,fields,null,table,shapefile,vector,geojson
 
-homepage=http://homepage
+# homepage=http://homepage
 category=Plugins
 icon=icon.png
 # experimental flag
