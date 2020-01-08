@@ -6,7 +6,7 @@
 name=Delete NULL Fields from Vector Data
 qgisMinimumVersion=3.0
 description=This plugin will delete all fields/columns from a vector layer or data which has all values equal to NULL.
-version=0.1
+version=0.2
 author=Abdullah - Mphil RS and GIS - GIS Developer
 email=spaciandd@gmail.com
 
